@@ -1,0 +1,17 @@
+.App {
+    text-align: center;
+}
+
+.items {
+    width: 300px;
+    display: inline-block;
+    margin-bottom: 50px;
+    margin-left: 20px;
+}
+
+.item {
+    display: inline-block;
+    margin-left: 80px;
+    margin-right: 80px;
+    height: 50px;
+}

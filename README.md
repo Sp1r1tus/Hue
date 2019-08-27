@@ -1,0 +1,1 @@
+a small Typescript Boilerplate for my Philipps Hue Lamps
